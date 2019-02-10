@@ -1,2 +1,2 @@
 # FlippingPage
-For More Detail About Flliping Pages Go to http://www.turnjs.com/ and see the documentation about Turn.js
+For More Detail About Flipping Pages Go to http://www.turnjs.com/ and see the documentation about Turn.js

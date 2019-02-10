@@ -1,0 +1,46 @@
+
+<div class="book-content">
+
+    
+    <span>1. It is you</span><br/><br/>
+    <audio title="It Is You" controls>
+        <source src="/Audios/28 It Is You (I Have Loved).mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <hr class="style5" />
+    <span>2. MaxPayne3</span><br /><br />
+    <audio title="MaxPayne3" controls>
+        <source src="/Audios/MaxPayne3.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <hr class="style5" />
+    <span>3. Some other music</span><br /><br />
+    <audio title="Some other music" controls>
+        <source src="/Audios/Music 2.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <hr class="style5" />
+    <span>4. Bohran</span><br /><br />
+    <audio title="Bohran" controls>
+        <source src="/Audios/3. Bohran (soundtracks.ir).mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <hr class="style5" />
+    <span>5. And some other music again</span><br /><br />
+    <audio title="And some other music again" controls>
+        <source src="/Audios/Music 3.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+
+</div>
+<span class="page-number">9</span>
+<script>
+    document.addEventListener('play', function (e) {
+        var audios = document.getElementsByTagName('audio');
+        for (var i = 0, len = audios.length; i < len; i++) {
+            if (audios[i] != e.target) {
+                audios[i].pause();
+            }
+        }
+    }, true);
+</script>

@@ -1,0 +1,136 @@
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\ApplicationInsights.config
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\csc.exe
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\csc.exe.config
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\csc.rsp
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\csi.exe
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\csi.rsp
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\System.AppContext.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\System.Collections.Immutable.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\System.IO.FileSystem.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\System.Reflection.Metadata.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\vbc.exe
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\vbc.exe.config
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\vbc.rsp
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\VBCSCompiler.exe
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\VBCSCompiler.exe.config
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Multimedia.dll.config
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Multimedia.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Multimedia.pdb
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Antlr3.Runtime.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.Agent.Intercept.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.DependencyCollector.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.Web.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.WindowsServer.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.ApplicationInsights.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.Web.Infrastructure.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Newtonsoft.Json.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.Helpers.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.Mvc.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.Optimization.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.Razor.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.WebPages.Deployment.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.WebPages.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.WebPages.Razor.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\WebGrease.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.Helpers.xml
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.Mvc.xml
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.Optimization.xml
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.Razor.xml
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.WebPages.xml
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.WebPages.Deployment.xml
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.WebPages.Razor.xml
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Antlr3.Runtime.pdb
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Newtonsoft.Json.xml
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.ApplicationInsights.xml
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.DependencyCollector.xml
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.WindowsServer.xml
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.Web.xml
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\obj\Debug\Multimedia.csprojResolveAssemblyReference.cache
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\obj\Debug\Multimedia.dll
+D:\IAUSTB Files\Multimedia\Multimedia Proj\Multimedia\Multimedia\obj\Debug\Multimedia.pdb
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\ApplicationInsights.config
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\csc.exe
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\csc.exe.config
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\csc.rsp
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\csi.exe
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\csi.rsp
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\System.AppContext.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\vbc.exe
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\vbc.exe.config
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\vbc.rsp
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\VBCSCompiler.exe
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Multimedia.dll.config
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Multimedia.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Multimedia.pdb
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Antlr3.Runtime.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.Web.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.ApplicationInsights.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Newtonsoft.Json.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.Helpers.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.Mvc.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.Optimization.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.Razor.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.WebPages.Deployment.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.WebPages.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.WebPages.Razor.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\WebGrease.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.Helpers.xml
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.Mvc.xml
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.Optimization.xml
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.Razor.xml
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.WebPages.xml
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.WebPages.Deployment.xml
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\System.Web.WebPages.Razor.xml
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Antlr3.Runtime.pdb
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Newtonsoft.Json.xml
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.ApplicationInsights.xml
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\bin\Microsoft.AI.Web.xml
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\obj\Debug\Multimedia.csprojAssemblyReference.cache
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\obj\Debug\Multimedia.csproj.CoreCompileInputs.cache
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\obj\Debug\Multimedia.csproj.CopyComplete
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\obj\Debug\Multimedia.dll
+C:\Users\m_azizkhani\Desktop\multimedia-project-master\multimedia-project-master\Multimedia Proj\Multimedia\Multimedia\obj\Debug\Multimedia.pdb
